@@ -1,4 +1,4 @@
-[![LearnSwift](https://i.imgur.com/LgEUVjY.png)]
+![LearnSwift](https://i.imgur.com/LgEUVjY.png)
 
 # Python Scientific Calculator
 
